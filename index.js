@@ -15,7 +15,7 @@ const { PORT } = process.env;
 
   const swaggerOptions = {
     info: {
-      title: "Test API Documentation",
+      title: "Le french rap game",
       version: Pack.version
     }
   };

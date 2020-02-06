@@ -19,7 +19,7 @@ exports.up = async knex => {
           .unique()
           .notNullable();
         table.string("picture");
-        table.string("lastName");
+        table.string("title");
         table
           .uuid("rapperId")
           .references("rappers.id")
