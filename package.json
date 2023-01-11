@@ -21,7 +21,7 @@
     "@hapi/vision": "^6.0.0",
     "dotenv": "^8.2.0",
     "hapi-swagger": "^12.1.0",
-    "knex": "^0.20.8",
+    "knex": "^2.4.0",
     "uuid": "^3.4.0"
   },
   "devDependencies": {
